@@ -27,6 +27,7 @@ Here's a [video of the project working](https://youtu.be/1mE8IK77khM)
   
 ## Future enhancements
 
+- Create a request to list all managers' ID's
 - Scheduling the script in the cloud
 - Use Telegram API to automate the sending of follow ups
 
