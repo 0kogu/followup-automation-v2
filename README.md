@@ -2,7 +2,7 @@
 
 This follow up generator extracts the account managers stats in the week of the inserted date directly from the API, paste it over a template, save it as image and store in a folder for that given date.
 
-This is a 2nd version of [this project](https://github.com/0kogu/followup-automation)
+This is the second version of [this project](https://github.com/0kogu/followup-automation)
 
 Here's a [video of the project working](https://youtu.be/1mE8IK77khM)
 
