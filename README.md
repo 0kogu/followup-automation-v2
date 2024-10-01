@@ -6,6 +6,7 @@ This is the second version of [this project](https://github.com/0kogu/followup-a
 
 Here's a [video of the project working](https://youtu.be/1mE8IK77khM)
 
+[Download the executable file](https://drive.google.com/file/d/1rPWqJcjJBDyXxhxRCGeUdoCoDcUorG3s/view?usp=sharing)
 
 ## Features
 
